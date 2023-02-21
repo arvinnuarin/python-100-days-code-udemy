@@ -31,3 +31,11 @@ print(round(8/3))
 
 #Rounding with 2 decimal places
 print(round(8/3, 2))
+
+#f-string
+score = 0
+height = 1.8
+isWinning = True
+
+#f-String
+print(f"your score is {score}, your height is { height }")
